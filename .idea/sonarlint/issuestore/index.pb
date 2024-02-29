@@ -3,3 +3,19 @@
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+P
+ src/main/java/edu/test/Main.java,e\6\e64c6d8dc7811d949a748bd6d545a39920e0508d
+j
+:src/main/java/edu/test/controller/InventoryController.java,5\7\57539828834cb916afb67f687777ba589fcb465b
+T
+$src/main/java/edu/test/dto/Item.java,6\b\6bd47cf06e42abd6acab948ce95d793b8873a775
+h
+8src/main/java/edu/test/service/InventorySErviceImpl.java,2\7\274f424e12a03bbb03a65cb974c4a2ea1fb9ef69
+d
+4src/main/java/edu/test/service/InventoryService.java,7\7\77dabbacd80b778404a523361e7015dc21192493
+j
+:src/main/java/edu/test/repository/Inventoryrepository.java,d\7\d71f90bf9f51f58c93773159e76e7b5cf3d67f42
+R
+"src/main/java/edu/test/entity.java,4\4\440cfdaacacfb07ad110dcc6a2975b33ceac0d28
+]
+-src/main/java/edu/test/entity/ItemEntity.java,d\9\d90d7afa6c792d28f9a8e314ec862f81ffc29468
